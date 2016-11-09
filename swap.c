@@ -7,8 +7,8 @@ int main(void)
     int z = 2;
     printf("x is %i\n", x);
     printf("y is %i\n", y);
-    
-    
+   
+ 
     int temp = x;
     x = y;
     y = temp;
